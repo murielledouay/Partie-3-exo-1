@@ -1,0 +1,8 @@
+header{
+  background-image: url('../image/desert_egyptien.jpg');
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 250px;
+}
